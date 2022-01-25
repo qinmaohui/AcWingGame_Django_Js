@@ -1,4 +1,4 @@
-Class AcGame{
+class AcGame{
     constructor(id){
         
     }
