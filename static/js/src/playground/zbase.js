@@ -17,7 +17,6 @@ class AcGamePlayground{
     }
 
     show(){//打开playground 界面
-        console.log("666");
         this.$playground.show();
         this.root.$ac_game.append(this.$playground);
         this.width=this.$playground.width();
